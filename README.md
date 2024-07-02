@@ -1,4 +1,4 @@
-#### Streak Stats
+### Streak Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=the-user01)  
 
 <br> <br>
